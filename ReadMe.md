@@ -1,6 +1,6 @@
 # Applied Natural Language Processing in the Enterprise 
 
-## Welcome to the GitHub repository for Applied Natural Language Processing in the Enterprise. This repository is designed to provide valuable resources to accompany the book, including the complete book in PDF format and practical resources to help you apply natural language processing (NLP) concepts in real-world enterprise settings.
+### Welcome to the GitHub repository for Applied Natural Language Processing in the Enterprise. This repository is designed to provide valuable resources to accompany the book, including the complete book in PDF format and practical resources to help you apply natural language processing (NLP) concepts in real-world enterprise settings.
 
 ## Repository Contents
 **Book PDF**: The complete PDF of Applied Natural Language Processing in the Enterprise.
